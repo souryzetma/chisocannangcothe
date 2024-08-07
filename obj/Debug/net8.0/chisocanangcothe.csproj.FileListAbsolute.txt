@@ -1,0 +1,14 @@
+E:\chisocanangcothe\bin\Debug\net8.0\chisocanangcothe.exe
+E:\chisocanangcothe\bin\Debug\net8.0\chisocanangcothe.deps.json
+E:\chisocanangcothe\bin\Debug\net8.0\chisocanangcothe.runtimeconfig.json
+E:\chisocanangcothe\bin\Debug\net8.0\chisocanangcothe.dll
+E:\chisocanangcothe\bin\Debug\net8.0\chisocanangcothe.pdb
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.GeneratedMSBuildEditorConfig.editorconfig
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.AssemblyInfoInputs.cache
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.AssemblyInfo.cs
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.csproj.CoreCompileInputs.cache
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.dll
+E:\chisocanangcothe\obj\Debug\net8.0\refint\chisocanangcothe.dll
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.pdb
+E:\chisocanangcothe\obj\Debug\net8.0\chisocanangcothe.genruntimeconfig.cache
+E:\chisocanangcothe\obj\Debug\net8.0\ref\chisocanangcothe.dll
